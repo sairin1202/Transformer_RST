@@ -7,7 +7,7 @@ import pickle
 import numpy as np
 
 
-use_glove = True
+use_glove = False
 
 
 
